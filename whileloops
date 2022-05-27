@@ -1,0 +1,14 @@
+i=5
+while i<=5
+      print (i)
+      i +=1
+print("finished)
+#while loops ithbreak and continue
+
+i=0
+while i<=15 ;
+"""I+=1
+   if 1 > 5 and i < 10 ;
+   1
+    
+

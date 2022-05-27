@@ -1,2 +1,2 @@
 # stem-training
-Files for bootcamp at jkuat
+bootcamp at jkuat
